@@ -3,7 +3,9 @@ Ecommerce - Demowebshop Automation
 As part of this project, TOSCA Automation scripts are built on Ecommerce Web application provided by Tricentis. 
 This portal allows the user to navigate through product categories and do shopping/Order Management.
 
-Scenario Automated:
+Scenarios Automated:
+
+Scenario 1: Order Report Generation
 Creating an Order Report by fetching all the available orders from Order - Account Management section of the Demowebshop user and adding it to the Excel file. After generating the report send the Excel attachment via outlook email and verifying for the email at receiver end.
 
 Application Involved:
@@ -21,3 +23,5 @@ Things to Note:
 2. Use SMTP for sending email and IMAP/POP3 for receving email.
 
 Reference: https://support.tricentis.com/community/article.do?number=KB0015095
+
+Scenario 2: Product
