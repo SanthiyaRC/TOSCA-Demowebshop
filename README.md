@@ -5,7 +5,8 @@ This portal allows the user to navigate through product categories and do shoppi
 
 Scenarios Automated:
 
-Scenario 1: Order Report Generation
+**Scenario 1: Order Report Generation**
+
 Creating an Order Report by fetching all the available orders from Order - Account Management section of the Demowebshop user and adding it to the Excel file. After generating the report send the Excel attachment via outlook email and verifying for the email at receiver end.
 
 Application Involved:
