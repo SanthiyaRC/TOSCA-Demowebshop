@@ -40,3 +40,27 @@ TOSCA Features Used:
 2. Test Case Design (TCD) used to store data and pass on the value to the templates.
 3. File Operations module used for File Existence & File Content Verificaton.
 4. Loop concept: While and Tbox Evaluation tool used for Item count verification.
+
+Project Workspace Snapshot:
+**Requirement Section**
+![image](https://user-images.githubusercontent.com/80340488/110894712-5861e400-831e-11eb-826c-456bef81b3f0.png)
+
+**Modules Section**
+![image](https://user-images.githubusercontent.com/80340488/110894829-9e1eac80-831e-11eb-9013-21e0fee4b94d.png)
+
+**Test Case Section**
+![image](https://user-images.githubusercontent.com/80340488/110894610-2a7c9f80-831e-11eb-896f-92613d4da9a9.png)
+
+**Test Case Design Section**
+![image](https://user-images.githubusercontent.com/80340488/110894871-b0004f80-831e-11eb-9a01-b35fa1715959.png)
+
+**Execution Section**
+![image](https://user-images.githubusercontent.com/80340488/110894962-d920e000-831e-11eb-8cf8-58ab46e94cdb.png)
+
+**Test Data Services**
+![image](https://user-images.githubusercontent.com/80340488/110895026-f9509f00-831e-11eb-9207-3763643856b9.png)
+
+**Execution Summary**
+![image](https://user-images.githubusercontent.com/80340488/110895337-901d5b80-831f-11eb-89f1-06be6fd96eb7.png)
+
+
